@@ -3,9 +3,6 @@ This 2048 game has been developed from the inspiration of famous game [2048](htt
 
 **This game is compatible with Java 7 or above.**
 
-### Next Target
-Develop the game by using a dynamic N*N matrix and introducing AI to play the game. 
-
 ### Screenshots
 ![Game Scene](screenshots/main-screen.png)
 
